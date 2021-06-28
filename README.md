@@ -1,2 +1,2 @@
 # zinterface
-lightweight interface library? for zig.
+interface library? for zig.
